@@ -1,0 +1,12 @@
+0ce6fef3362e649b04556d16a08af5a8 *DESCRIPTION
+6423ab4101794d75ddeb9cd6b859e858 *LICENSE
+c139371b84b9f1ec8e1799ca85eab33a *NAMESPACE
+7eed3f657e1245e0a5ecef649880336e *R/twitterwidget.R
+65e8e126542cca531393231b91012431 *README.md
+e9f1f3999a3ed29ad982ab304ce7fffa *inst/htmlwidgets/lib/twitter/widgets.js
+60fded4b728eb8bfcd388c097e8b7ee3 *inst/htmlwidgets/twitterwidget.js
+2f202fbacf2f503028c3234cd6ad6a21 *inst/htmlwidgets/twitterwidget.yaml
+1915ff438b9b15aa64dfdb8328191d16 *man/twitterwidget-shiny.Rd
+97109b74785241a6fbd546e4b931915e *man/twitterwidget.Rd
+aae28e53b422700262f86e916cf353a6 *tests/examples/dashboard.Rmd
+e34a2456f33f2e7448316af73b2ca8bd *tests/examples/page.Rmd

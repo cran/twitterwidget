@@ -1,0 +1,7 @@
+# (uncomment to add a dependency)
+ dependencies:
+  - name: twitter-widgets
+    version: 1.0.0
+    src: htmlwidgets/lib/twitter
+    script: widgets.js
+#    stylesheet:
